@@ -1,4 +1,4 @@
-<?php<?php
+<?php
 //template klass
 //kohad, kus me saame info ise panna - see on põhimõtteliselt kujundusfail
 //antud templates puudub cashimine

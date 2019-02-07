@@ -1,4 +1,4 @@
-<?php<?php
+<?php
 class Http
 {
     var $vars = array(); //päringu requestile kaasantud muutujad kasutaja poolt
